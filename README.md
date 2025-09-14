@@ -2,7 +2,9 @@
 
 Generates bounding boxes around objects, along with their confidence levels.
 
-Project Diagram:
+**Project Diagram:**
+
+
 <img width="1119" height="718" alt="image" src="https://github.com/user-attachments/assets/410b6512-eec6-40ff-b9a2-56f9edf32679" />
 
 
