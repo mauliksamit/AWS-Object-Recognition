@@ -1,6 +1,6 @@
-**Project Overview:** Allows users to uploead images to S3, which would be processed and labelled by Amazon Rekognition, and returned to the user (Using Amazon CLI and Python). 
+**Project Overview:** Allows users to upload images to S3, which would be processed and labelled by Amazon Rekognition, and returned to the user (Using Amazon CLI and Python). 
 
-Run **rekognition_script.py **and select an image to generate bounding boxes around objects, along with their confidence levels.
+Run **rekognition_script.py** and select an image to generate bounding boxes around objects, along with their confidence levels.
 
 **Project Diagram:**
 
